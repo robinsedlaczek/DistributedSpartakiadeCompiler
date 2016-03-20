@@ -9,6 +9,7 @@ namespace DistributedSpartakiadeCompiler.RabbitMQEvaluation
     {
         public static void Main(string[] args)
         {
+            Console.WriteLine("geht");
         }
     }
 }
